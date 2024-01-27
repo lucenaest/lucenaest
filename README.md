@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![lucenaestGitHub stats](https://github-readme-stats.vercel.app/api?username=lucenaest&show_icons=true&theme=transparent)
+![lucenaest GitHub stats](https://github-readme-stats.vercel.app/api?username=lucenaest&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucenaest&theme=transparent)](https://github.com/lucenaest/github-readme-stats)
 
 </div>
