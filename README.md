@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/lucenaest/lucenaest/assets/139528889/a5bf767f-8a7e-4b1c-936d-a58fe1a3e44f" width="200px">
+  <img src="https://github.com/lucenaest/lucenaest/assets/157922436/93857609-5238-4e68-b1ee-74d0446a7551" width="200px">
 </p>
 
 
